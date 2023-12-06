@@ -1,4 +1,4 @@
 ## Snapshot of To Do List.
 # A practice project (React).
 
- ![Preview](resources/Preview.png)
+ ![Preview](resources/preview.png)
